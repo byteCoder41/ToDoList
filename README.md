@@ -16,7 +16,7 @@ ToDoList is a simple web application that allows users to create, view, update, 
 - Spring Data JPA
 - MySQL
 
-## Future Work
+## Next Steps
 
 - Implement User Registration and Authentication: Enhance the application to include user registration and authentication functionality. This will allow users to create an account, log in securely, and manage their own todo lists.
 - Secure Todo List Operations: Once user registration and authentication are implemented, ensure that only authenticated users can perform operations such as creating, updating, and deleting their todo lists.
